@@ -1,6 +1,3 @@
-resources
-public
-
 # no need to save node files since this comes from github action
 node_modules
 package.json

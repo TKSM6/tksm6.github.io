@@ -1,7 +1,7 @@
 name: Deploy site
 on:
   push:
-    branches: [ master ]
+    branches: [master]
 
 env:
   REMOTE: tksm6/tksm6.github.io.git
@@ -15,3 +15,5 @@ jobs:
       - uses: actions/checkout@master
       - name: 🚀 Build and deploy
         uses: victoriadrake/hugo-remote@master
+        with:
+          branch: gh-pages

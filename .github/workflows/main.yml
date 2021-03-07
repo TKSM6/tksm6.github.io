@@ -4,16 +4,14 @@ on:
     branches: [master]
 
 env:
-  REMOTE: tksm6/tksm6.github.io.git
-  DEST: public
-  TOKEN: ${{ secrets.TOKEN }}
+  TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: 🚀 Build and deploy
-        uses: victoriadrake/hugo-remote@master
         with:
-          branch: gh-pages
+          fetch-depth: 1
+      - name: 🚀 Build and deploy
+        uses: victoriadrake/hugo-latest-cd@master

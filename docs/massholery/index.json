@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Massholery on Hugo Zen theme",
+    "description": "Recent content in Massholery on Hugo Zen theme",
+    "home_page_url": "https://example.org/",
+    "feed_url": "https://example.org/massholery/index.json",
+    "language": "en-GB",
+    "icon": "https://example.org/apple-touch-icon.png",
+    "favicon": "https://example.org/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Your Name",
+            "url": "https://example.org/somepage",
+            "avatar": "https://example.org/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        ]
+}

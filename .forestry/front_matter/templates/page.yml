@@ -7,3 +7,4 @@ fields:
   label: title
 pages:
 - content/about.md
+- content/rants-and-stories/this-is-a-rant.md

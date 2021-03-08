@@ -15,5 +15,13 @@
         }
     ],
     "items": [
+        {
+            "title": "About",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://example.org/about/",
+            "url": "https://example.org/about/",
+            "content_html": "\u003cp\u003eAbout Jake blah blah blah\u003c/p\u003e\n"
+        }
         ]
 }

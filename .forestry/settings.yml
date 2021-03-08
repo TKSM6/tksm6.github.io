@@ -1,58 +1,58 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path:
-webhook_url:
+admin_path: 
+webhook_url: 
 sections:
-  - type: directory
-    path: content/music
-    label: Music
-    create: all
-    match: "**/*"
-    templates:
-      - page
-  - type: directory
-    path: content/massholery
-    label: Massholery
-    create: all
-    match: "**/*"
-    templates:
-      - page
-  - type: directory
-    path: content/hater
-    label: Hater of the Day
-    create: all
-    match: "**/*"
-    templates:
-      - page
-  - type: directory
-    path: content/rants-and-stories
-    label: Rants & Stories
-    create: all
-    match: "**/*"
-    templates:
-      - page
-  - type: directory
-    path: content/sports-and-games
-    label: Sports & Games
-    create: all
-    match: "**/*"
-    templates:
-      - page
-  - type: directory
-    path: content
-    label: Pages
-    create: all
-    match: "*"
+- type: directory
+  path: content/music
+  label: Music
+  create: documents
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: content/massholery
+  label: Massholery
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: content/hater
+  label: Hater of the Day
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: content/rants-and-stories
+  label: Rants & Stories
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: content/sports-and-games
+  label: Sports & Games
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
-front_matter_path: ""
+front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-    - HUGO_ENV=staging
-    - HUGO_VERSION=0.79.0
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.79.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"

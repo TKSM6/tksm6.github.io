@@ -1,17 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Hater of the Day on Hugo Zen theme",
-    "description": "Recent content in Hater of the Day on Hugo Zen theme",
-    "home_page_url": "https://example.org/",
-    "feed_url": "https://example.org/hater/index.json",
+    "title": "Hater of the Day on The Pile",
+    "description": "Recent content in Hater of the Day on The Pile",
+    "home_page_url": "https://thepileTKSM.com/",
+    "feed_url": "https://thepileTKSM.com/hater/index.json",
     "language": "en",
-    "icon": "https://example.org/apple-touch-icon.png",
-    "favicon": "https://example.org/apple-touch-icon.png",
+    "icon": "https://thepileTKSM.com/apple-touch-icon.png",
+    "favicon": "https://thepileTKSM.com/apple-touch-icon.png",
     "authors": [
         {
             "name": "Your Name",
             "url": "https://example.org/somepage",
-            "avatar": "https://example.org/path/to/some-image.jpg"
+            "avatar": "https://thepileTKSM.com/path/to/some-image.jpg"
         }
     ],
     "items": [

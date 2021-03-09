@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Zen theme</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on Hugo Zen theme</description>
+    <title>Categories on The Pile</title>
+    <link>https://thepileTKSM.com/categories/</link>
+    <description>Recent content in Categories on The Pile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thepileTKSM.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

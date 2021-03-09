@@ -1,6 +1,5 @@
 +++
 date = 2021-03-09T02:33:03Z
-draft = true
 title = "The Last Time I Didn't Make it to the Bathroom"
 
 +++

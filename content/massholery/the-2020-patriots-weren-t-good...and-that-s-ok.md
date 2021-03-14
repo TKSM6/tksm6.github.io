@@ -1,6 +1,6 @@
 +++
 date = 2021-02-11T02:23:45Z
-title = "The 2020 Patriots weren't good...and that's ok"
+title = "The 2020 Patriots Weren't Good...and that's ok"
 
 +++
 I wrote a different version of this blog after Week 13, when the Pats sat at 6-6. Unlike the real sports journos of yore, I did not make a promise to eat my own column should my sage predictions be proven wrong. I also didn’t get it published in time. Or anywhere, for that matter. And yet here we are.

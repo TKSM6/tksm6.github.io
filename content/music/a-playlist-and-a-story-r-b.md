@@ -1,6 +1,5 @@
 +++
 date = 2021-03-14T22:30:01Z
-draft = true
 title = "A Playlist and a Story (R&B)"
 
 +++

@@ -24,5 +24,4 @@ The woman who spoke up first then said something along the lines of, "Let me sho
 In any case, during the first month or so of the pandemic, I fixated on that night a lot. My longings to go dance, drink, hear loud music I love and people-watch were crystalized by that evening; I had expected nothing and instead had a fabulous time. I just wanted to be able to do that again (and still do). But while at Emporium, I remember thinking I'd look a lot cooler if the songs were from 5-10 years later and I could base my ungainly movements on a tempo and lyrics I knew. 
 
 So, I made a playlist: THE EMPORIUM BAG. It's some late 90s/early 2000s R&B that I love and that would still do something in the right room. You'll find some B, some Mariah, some Trey, some newer stuff from the Summer Walker/Ella Mai lane, etc., but the theme is something a little old, something with a little bounce and something that will (hopefully) bring back some good memories. 
-
-    <iframe src="https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

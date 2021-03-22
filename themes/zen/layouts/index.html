@@ -8,9 +8,7 @@
 </div>
 </article>
 
-{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{ $paginator := .Paginate $pages -}}
-{{ range $paginator.Pages -}}
+{{ range first 3 .Site.RegularPages -}}
 {{ .Render "summary"}}
 {{ end -}}
 

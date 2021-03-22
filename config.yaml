@@ -46,3 +46,7 @@ params:
   poweredby: false
   sidebar: true
   submitted: true
+markup:
+  goldmark:
+    renderer: 
+      unsafe: true

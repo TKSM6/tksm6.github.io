@@ -1,6 +1,6 @@
 +++
 date = 2021-03-12T02:37:22Z
-title = "Baseball Cards: Survival of the Fittest"
+title = "Baseball Cards are Survivors"
 
 +++
 Baseball cards are one of the few “relics” that remain popular, both with nostalgics, a bit with modern kids and now, via a leap online, NFTs (I’m not talking about those because I don’t know enough). There aren’t many others; bikes and skateboards come to mind, dolls and dollhouses too, I'm sure there are more. But even I, someone who mostly grew up in the 21st century, feel like an old man when thinking about what kids are raised on today. I never had video games (because of my parents), wasn’t really on the internet until middle school and walked around with a flip phone in my pocket until high school. My sister, three years younger, had a smartphone by the time she got to 9th grade.

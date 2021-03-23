@@ -25,4 +25,4 @@ In any case, during the first month or so of the pandemic, I fixated on that nig
 
 So, I made a playlist: THE EMPORIUM BAG. It's some late 90s/early 2000s R&B that I love and that would still do something in the right room. You'll find some B, some Mariah, some Trey, some newer stuff from the Summer Walker/Ella Mai lane, etc. The theme is R&B for your night out–something with a little bounce, something you probably heard on the radio and (hopefully) something that will bring back some good memories.
 
-<iframe src="[https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE](https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE "https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE")" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/2WpZuTqMAoqFWIAnxwmmjE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

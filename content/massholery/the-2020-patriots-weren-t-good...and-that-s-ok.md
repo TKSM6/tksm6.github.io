@@ -29,4 +29,6 @@ Plenty of disappointments too. Receivers and tight ends, obviously, but no Edelm
 
 But again, nothing more than a mild air of disappointment from me on this Pats season. The playoffs were still compelling, with plenty of juicy storylines for Pats fans. A quick rundown: the Big Ben era is over in Pittsburgh (he resigned, I know, but c'mon), Buffalo taking up the mantle for the AFC East, everyone caught up with John Harbaugh again. Even the ones with no loose connection were fun: Browns won a game! Extra wild card teams! One bye! Crying Drew Brees! COVID hanging over everything! Patty Mahomes isn't worth his contract (he is)! The NFC was never actually that good! Oh, and the old man got his 7th.
 
+<iframe src="https://gifer.com/embed/2vuz" width=480 height=248.727 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 Pats fans, I hope you enjoyed some playoff football with no deeply personal, unnecessarily weighty emotions riding on it. Throw on a championship DVD if you’re feeling down about your team–there’s six to choose from. And look forward to next year; Bill will have his last laugh, one way or another. It might not be next year, but history suggests you might want to stick around and find out.

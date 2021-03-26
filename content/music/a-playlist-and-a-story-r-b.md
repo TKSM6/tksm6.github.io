@@ -17,13 +17,13 @@ As I looked around Emporium, I noticed there weren't a lot of white people there
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ibnp5lpqzlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_"It's our beer and they can't have it" has to be the worst beer tagline ever. We can have it, for next to nothing, and nobody wants it anyway._ 
+_"It's our beer and they can't have it" has to be the worst beer tagline ever. We can have it, for next to nothing, and nobody wants it anyway._
 
 After a couple more adult beverages, I was ready to unlock my joints a bit. I shuffled toward the back of the room and found a bit of space to be a spazz without bumping into any couples trying to enjoy their evening. I thought I was blending in fine, but a white dude with a large cut on his nose dancing oddly and looking kind of sweaty with a beer in hand caught a few eyes in a sea of young, in love Black couples. I didn't really get into R&B until \~10 years after the era being featured, so I was mostly just singing the hooks, looking crazy and butchering some dance moves. Come to think of it, the Old Styles probably tipped everyone else off.
 
 Eventually, a group of Black women took pity on me. One of them tapped me on the shoulder, saying "You look like you need some help." Then she took a step back to do a full appraisal–no rhythm, cheap beer, no significant other to be seen and a newly healed cut to the face. At that point, I stopped trying to dance all together. I figured she must be spot-on; if she and her friends felt compelled enough to approach me, I must really be in a state.
 
-<iframe src="[https://giphy.com/embed/l41YiLaqBQDBuyFCU](https://giphy.com/embed/l41YiLaqBQDBuyFCU "https://giphy.com/embed/l41YiLaqBQDBuyFCU")" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/dancing-kids-whip-nae-l41YiLaqBQDBuyFCU](https://giphy.com/gifs/dancing-kids-whip-nae-l41YiLaqBQDBuyFCU "https://giphy.com/gifs/dancing-kids-whip-nae-l41YiLaqBQDBuyFCU")">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l41YiLaqBQDBuyFCU" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-kids-whip-nae-l41YiLaqBQDBuyFCU">via GIPHY</a></p>
 
 The woman who spoke up first then offered to show me some steps. I gladly took her up on it knowing I can't dance and that free lessons weren't often forthcoming at such establishments. She got me back on beat, the friend group had a couple more chuckles at my footwork and, finally, I _kinda_ had the hang of it. Unfortunately, the DJ cut on an Aaliyah song, the universal signal to GTFO. Upon hearing that story on the ride home, my nice friend said she was trying to kick a little game to me; everyone else was far less generous in their assessment. I tend to agree with the latter.
 

@@ -7,7 +7,7 @@ Easy target to start off this section, but Dabo Swinney [hasn’t said anything 
 
 Anyway, the Grammys were last night, and I could’ve cared less. Not an original stance, I concede, but there’s a reason for that. It’s not the lack of star power, it isn’t the lack of pageantry, it’s not the lack of performances or anything else about _the show. The show_ usually kicks ass–unlimited budget, biggest names, biggest stage, labels muscling their artists into noms and wins.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bEe2ohaO8BA?start=443" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEe2ohaO8BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Grammy Committee delegitimized their own award, to me, because I know it's rigged. That's a _fan_ perspective, because I've only ever known that side of the equation (clarinet lessons notwithstanding). I can't speak for artists, but [they've spoken about it plenty](https://www.mensxp.com/culture/music/86511-grammys-under-fire-racism-zayn-bts-the-weeknd.html). [In pretty clear language](https://theundefeated.com/features/dj-jazzy-jeff-the-fresh-prince-and-a-grammy-boycott-that-set-the-tone-for-three-more-decades-of-rap-and-culture/), too. In fact, an artist telling us about the Committee pulling something like this is why I put virtual ink to virtual paper. It’s not the whole story, but definitely the tipping point.
 

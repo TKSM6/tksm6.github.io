@@ -15,7 +15,7 @@ As I was waiting around and laughing it off, the physical act of smiling cracked
 
 As I looked around Emporium, I noticed there weren't a lot of white people there, and the ones that were there had huddled in the back around some pinball machines. I didn't want to hear the Chainsmokers or Party in the USA from the DJ booth, so I was very pleased by this development. I snagged a couple Old Styles because they were $3 and shimmied over to the dance floor. I soon discovered it was 90s R&B night, and I couldn't have been any happier. I came to love the genre in the 2010s, but like any music fan, I know enough of the classics to be more than content with that selection.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/ibnp5lpqzlc](https://www.youtube.com/embed/ibnp5lpqzlc "https://www.youtube.com/embed/ibnp5lpqzlc")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibnp5lpqzlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _"It's our beer and they can't have it" has to be the worst beer tagline ever. We can have it, for next to nothing, and nobody wants it anyway._ 
 

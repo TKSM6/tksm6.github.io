@@ -3,11 +3,13 @@ date = 2021-02-11T02:23:45Z
 title = "The 2020 Patriots Weren't Good...and that's ok"
 
 +++
-I wrote a different version of this blog after Week 13, when the Pats sat at 6-6. Unlike the real sports journos of yore, I did not make a promise to eat my own column should my sage predictions be proven wrong. I also didn’t get it published in time. Or anywhere, for that matter. And yet here we are.
+I wrote a different version of this blog after Week 13, when the Pats sat at 6-6. Unlike the real sports journos of yore, I did not make a promise to [eat my own column ](https://www.tallahassee.com/story/life/2015/03/19/portrait-past-columnist-eats-column/25017671/?showmenu=true)should my sage predictions be proven wrong. I also didn’t get it published in time. Or anywhere, for that matter. And yet here we are.
 
-In any case, that version was quite a bit different. It started off with something about going 8-4 and deteriorated from there. I’ll spare you the details, but please know it came from a part of my brain that still thought the dynasty was alive. And I’m glad it never saw the light of day because you might confuse me for a Pats fanboy.
+In any case, that version was quite a bit different. It started off with something about going 4-2 down the stretch and deteriorated from there. I’ll spare you the details, but please know it came from a part of my brain that still thought the dynasty was alive. And I’m glad it never saw the light of day because you might confuse me for a Pats fanboy.
 
 I am a card-carrying Pats fanboy still a bit hungover from the glory of my childhood/teenage year/college years, but this season was a slow motion kick to the bits. I imagine most Pats fans agree. It’s long overdue in the grand scheme of things; I loosely equate it to last year’s Warriors team minus the top 2 pick at the end of the shitbow. FWIW, our reign of terror was much longer anyway.
+
+<iframe src="https://giphy.com/embed/1ZDoc9v1mWOUNIxLWh" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/espn-steph-curry-in-the-zone-zoned-out-1ZDoc9v1mWOUNIxLWh">via GIPHY</a></p>
 
 Any Pats fan with a brain stem had lower expectations for this season. Sure, you said they’d win the division after Cam Newton signed, but you weren’t alone (regionally). No matter how sweet his black-and-white offseason training videos looked, reality was bound to set in. The man had to replace the greatest QB of all time, during a global pandemic, after his new team logged the most opt-outs in the NFL, and with a receiving/tight end corps that was, uh, thin at best and useless at worst (hi N’Keal!). You can’t be _that_ surprised the offense had severe growing pains; one man creates a system with the same coordinator and runs it to perfection for 10+ years. It stands to reason 1 A.T. would be tough. Cam never got the time or prep he needed, and his body was never right. Add in his pass catchers, COVID, canceled bye week, you catch my drift.
 

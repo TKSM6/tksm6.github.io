@@ -31,4 +31,6 @@ But again, nothing more than a mild air of disappointment from me on this Pats s
 
 <iframe src="https://gifer.com/embed/2vuz" width=480 height=248.727 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
+_Only one ring!_
+
 Pats fans, I hope you enjoyed some playoff football with no deeply personal, unnecessarily weighty emotions riding on it. Throw on a championship DVD if you’re feeling down about your team–there’s six to choose from. And look forward to next year; Bill will have his last laugh, one way or another. It might not be next year, but history suggests you might want to stick around and find out.

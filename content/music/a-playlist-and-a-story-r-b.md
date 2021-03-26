@@ -27,7 +27,7 @@ Eventually, a group of Black women took pity on me. One of them tapped me on the
 
 The woman who spoke up first then offered to show me some steps. I gladly took her up on it knowing I can't dance and that free lessons weren't often forthcoming at such establishments. She got me back on beat, the friend group had a couple more chuckles at my footwork and, finally, I _kinda_ had the hang of it. Unfortunately, the DJ cut on an Aaliyah song, the universal signal to GTFO. Upon hearing that story on the ride home, my nice friend said she was trying to kick a little game to me; everyone else was far less generous in their assessment. I tend to agree with the latter.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/8D1Zn-Ij6Mw](https://www.youtube.com/embed/8D1Zn-Ij6Mw "https://www.youtube.com/embed/8D1Zn-Ij6Mw")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8D1Zn-Ij6Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In any case, during the first month or so of the pandemic, I reminisced on that night a lot. My longings to go dance, drink, hear loud music and people-watch were crystalized in that rather ordinary Friday night; I had expected nothing and had a fabulous time anyway. I just wanted to be able to do that again (and still do). But while at Emporium, I remember thinking I'd look a lot cooler if the songs were from 5-10 years later and I could base my ungainly movements on a tempo and lyrics I knew.
 

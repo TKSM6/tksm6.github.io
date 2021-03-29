@@ -138,18 +138,18 @@ samp, pre {
   font-size: 1em; }
 
 a {
-  color: #000;
+  color: #2187cf;
   -webkit-text-decoration-skip: objects; }
 
 :visited {
-  color: #000; }
+  color: #2187cf; }
 
 a:hover,
 a:focus {
-  color: #333333; }
+  color: #8021cf; }
 
 a:active {
-  color: #c00; }
+  color: #8021cf; }
 
 abbr[title] {
   border-bottom: 0;
@@ -414,7 +414,7 @@ menu {
   .box:focus, .box:hover, .box.is-focus, .box--is-focus {
     border-color: #000; }
   .box--highlight {
-    border-color: #000; }
+    border-color: #2187cf; }
 
 .clearfix::before {
   content: '';

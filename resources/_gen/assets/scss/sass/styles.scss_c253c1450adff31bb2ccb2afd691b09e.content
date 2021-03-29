@@ -860,4 +860,7 @@ figure.podcast audio {
   .anchor-header:focus .anchor-link:focus, .anchor-header:focus .anchor-link:hover, .anchor-header:hover .anchor-link:focus, .anchor-header:hover .anchor-link:hover {
     opacity: 1; }
 
+iframe {
+  max-width: 100%; }
+
 /*# sourceMappingURL=styles.css.map */

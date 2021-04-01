@@ -9,9 +9,9 @@ The fact that the baseball card, and the sports card in general, made it to my g
 
 I remember the first pack of cards I got. It was an old box set of 100+ from the late 80s/early 90s made of the flimsy, papery material that was the norm back then. My dad picked them up from Ocean State Job Lot. For those unfamiliar, the Lot is basically a Walmart with weirder, cheaper stuff. Finding a box of 25-year-old baseball cards is par for the course. I’d say they couldn’t have cost more than $10.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iXN0FKSzch8?start=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qf3qrd2qpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_These people are at a Job Lot I've been to several times in Dartmouth, MA. It's a bit dull, but I fast-forwarded you to the point where the host tells you everything you need to know about Job Lot._
+_An actual ad they did_
 
 At that point, I was eight or nine years old and a full-blown Red Sox fan following their curse–busting World Series win in ’04. Of course, I had no idea who any of the players in the old set were. I recognized Tony Gwynn, but only because [his son was playing in the MLB](https://www.sandiegouniontribune.com/name-drop-san-diego/story/2020-07-21/tony-gwynn-jr-name-drop-san-diego-podcast) by that point. But my love for cards arose from something else.
 
@@ -20,8 +20,6 @@ Not long after I got that first set, one of my parents came home with a binder. 
 By then, I had advanced to current players. At the time (roughly ’05-’08), Topps were the easiest to find, so that’s what I bought. There were two card stores I frequented, both of which went under by 2010. They were little holes-in-the-wall, one on Main Street in Melrose and the other at the top of the Neck in Fairhaven. They were remarkably similar in layout and merchandise; long, narrow rooms filled with sports memorabilia and other relevant odds and ends. I would beg my dad to take me in each time we drove by, and he often would. A pack of cards was cheap (maybe $7), so the collection grew quickly.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1rOWt7C6o0U?start=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 I would spend hours on the floor sorting. Each time a new pack or set arrived, all the cards had to come out. I would create little piles on the living room carpet based on that day’s organizational technique. It was a good activity for muggy summer days when going outside meant heatstroke wasn’t far off. It would take hours, but I was totally engrossed. Occasionally, I found trade partners (like real baseball!). I’d take a stack of players on the block over to friend’s houses and start dealing. I’d like to think I made some shrewd moves in my day.
 

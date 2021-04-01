@@ -9,7 +9,7 @@ The fact that the baseball card, and the sports card in general, made it to my g
 
 I remember the first pack of cards I got. It was an old box set of 100+ from the late 80s/early 90s made of the flimsy, papery material that was the norm back then. My dad picked them up from Ocean State Job Lot. For those unfamiliar, the Lot is basically a Walmart with weirder, cheaper stuff. Finding a box of 25-year-old baseball cards is par for the course. I’d say they couldn’t have cost more than $10.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/iXN0FKSzch8?start=161](https://www.youtube.com/embed/iXN0FKSzch8?start=161 "https://www.youtube.com/embed/iXN0FKSzch8?start=161")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXN0FKSzch8?start=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _These people are at a Job Lot I've been to several times in Dartmouth, MA. It's a bit dull, but I fast-forwarded you to the point where the host tells you everything you need to know about Job Lot._
 

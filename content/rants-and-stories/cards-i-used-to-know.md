@@ -7,11 +7,11 @@ Baseball cards are one of the few “relics” that remain popular, both with no
 
 The fact that the baseball card, and the sports card in general, made it to my generation is a minor miracle. Baseball has been badly outstripped by football and basketball in the minds, lives and feeds of American kids. I can’t speak much on modern children considering I have none, but I imagine sports cards don’t quite match up to Candy Crush or an Xbox. And yet, they survive. I can appreciate its timeless appeal for a kid that loves sports with the cool pictures, stats, collector’s appeal. But you can’t play games on it.
 
+I remember the first pack of cards I got. It was an old box set of 100+ from the late 80s/early 90s made of the flimsy, papery material that was the norm back then. My dad picked them up from Ocean State Job Lot. For those unfamiliar, the Lot is basically a Walmart with weirder, cheaper stuff. Finding a box of 25-year-old baseball cards is par for the course. I’d say they couldn’t have cost more than $10.
+
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/iXN0FKSzch8?start=161](https://www.youtube.com/embed/iXN0FKSzch8?start=161 "https://www.youtube.com/embed/iXN0FKSzch8?start=161")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_These people are at a Job Lot I've been to several times in Dartmouth, MA. It's a dude shopping and bitching, but I fast-forwarded you to the point where the host tells you everything you need to know about Job Lot._
-
-I remember the first pack of cards I got. It was an old box set of 100+ from the late 80s/early 90s made of the flimsy, papery material that was the norm back then. My dad picked them up from Ocean State Job Lot. For those not from the Northeast, the Lot is basically a Walmart with weirder, cheaper stuff. Finding a box of 25-year-old baseball cards is par for the course. I’d say they couldn’t have cost more than $10.
+_These people are at a Job Lot I've been to several times in Dartmouth, MA. It's a bit dull, but I fast-forwarded you to the point where the host tells you everything you need to know about Job Lot._
 
 At that point, I was eight or nine years old and a full-blown Red Sox fan following their curse–busting World Series win in ’04. Of course, I had no idea who any of the players in the old set were. I recognized Tony Gwynn, but only because his son was playing in the MLB by that point. But my love for cards arose from something else.
 

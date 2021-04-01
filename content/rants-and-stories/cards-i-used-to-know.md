@@ -13,7 +13,7 @@ I remember the first pack of cards I got. It was an old box set of 100+ from the
 
 _These people are at a Job Lot I've been to several times in Dartmouth, MA. It's a bit dull, but I fast-forwarded you to the point where the host tells you everything you need to know about Job Lot._
 
-At that point, I was eight or nine years old and a full-blown Red Sox fan following their curse–busting World Series win in ’04. Of course, I had no idea who any of the players in the old set were. I recognized Tony Gwynn, but only because his son was playing in the MLB by that point. But my love for cards arose from something else.
+At that point, I was eight or nine years old and a full-blown Red Sox fan following their curse–busting World Series win in ’04. Of course, I had no idea who any of the players in the old set were. I recognized Tony Gwynn, but only because [his son was playing in the MLB](https://www.sandiegouniontribune.com/name-drop-san-diego/story/2020-07-21/tony-gwynn-jr-name-drop-san-diego-podcast) by that point. But my love for cards arose from something else.
 
 Not long after I got that first set, one of my parents came home with a binder. Inside the binder were plastic pages with 12 little sleeves on them. Far from a child prodigy, I was confused about their purpose. They were for the cards and, newly enlightened, I set about organizing. I found countless ways to sort and order the cards; by team, color, position, last name and more. As I expanded my collection beyond baseball, I got more binders. Still, they were all dwarfed by the mammoth two-incher stuffed to the brim with random baseball players.
 

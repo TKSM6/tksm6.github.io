@@ -1,7 +1,6 @@
 +++
 date = 2021-03-30T01:19:25Z
-draft = true
-title = "HotD 4/1 - "
+title = "HotD 4/1 - Mad Online Righties"
 
 +++
 I'll make this quick(ish) since Lil Nas X's new music video for "MONTERO (Call Me By Your Name)" is all over the socials at the moment. Sparknotes version: he descends a stripper pole into hell, red braids swirling around him, to shake ass in the devil's face while wearing thigh-high leather boots and what I call ball-huggers (brief-style men's underwear). I'd suggest watching it for yourself; there's a lot going on, and it's all very entertaining.

@@ -4,15 +4,13 @@ draft = true
 title = "HotD 4/1 - People Who Got Mad About the Lil Nas X Video"
 
 +++
-Yes, I know it's stupid and you don't care, but Lil Nas X has whipped up quite the frenzy on Twitter with the new vid for "MONTERO (Call Me By Your Name)." Sparknotes version: he's in heaven, descends a stripper pole into hell, red wig swirling around him, to shake ass in the devil's face while wearing thigh-high leather boots and briefs. I'd suggest watching it for yourself; there's a lot going on, and it's all very entertaining.
+Yes, I know it's stupid and you don't care, but Lil Nas X has whipped up quite the frenzy on Twitter with the new vid for "MONTERO (Call Me By Your Name)." Sparknotes version: he's in heaven, descends a CGI stripper pole into hell, red wig swirling around him, to shake ass in the devil's face while wearing thigh-high leather boots and briefs. I'd suggest watching it for yourself; there's a lot going on, and it's all very entertaining.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6swmTBVI83k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Predictably, the self-appointed gatekeepers of all that is holy and American fired up the faux outrage machine. Nothing new; invoke religion and children to be racist/homophobic under the guise of "protecting our children" and "restoring traditional American values." I'm not even that much of a Lil Nas X fan, and he's been having a great time responding to this round of haters on his own. But because these people are such hypocrites, I simply must point such things out. 
+Predictably, the self-appointed gatekeepers of all that is holy and American fired up the faux outrage machine. Nothing new; invoke religion and kids to be racist/homophobic under the guise of "protecting our children" and "restoring traditional American values" (read: racism and homophobia, mostly). I'm not even that much of a Lil Nas X fan, and he's been having a great time responding to this round of haters on his own. I'm not telling you to love the song (I personally won't be running it back), love his music or do anything along those lines. But because these people are such hypocrites, I simply must point such things out. 
 
-VID
-
-"Panini" I enjoy because I'm corny
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXcSLI58-h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The appetizer here is Kristi Noem, the brain-dead, gun-toting governor of South Dakota. Last week she [expanded gun rights](https://www.nraila.org/articles/20210324/south-dakota-governor-noem-signs-multiple-pro-gun-bills-into-law) in the wake of two mass shootings, this week she [cooked up an executive order](https://www.cnn.com/2021/03/30/politics/south-dakota-transgender-sports-kristi-noem/index.html) barring transgender athletes from participating in K-12 girls sports. Her reasoning was to "ensure equality," which she did with a bill codifying inequality for an already-marginalized community. But on the Lord's Day, someone introduced her to Lil Nas X. Knowing in her heart what the orange man would want her to say,  she fired off this snappy little number.
 

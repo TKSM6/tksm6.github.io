@@ -1,6 +1,6 @@
 +++
 date = 2021-04-07T01:28:42Z
-title = "Top 4 Villains: Love Island UK"
+title = "Top 5 Villains: Love Island UK"
 
 +++
 Ohhhhhh BABY I’ve been waiting for this one. I’ve been kicking a list around in my head for quite some time, but it’s time to make it official. I’ll be leaving out the U.S. versions since I didn’t watch all of it and what I saw disgusted me. I know people like that; it hits too close to home. The Aussies were generally too chill to achieve peak villainy [but still had their moments](https://www.youtube.com/watch?v=ApMwvtT1plw). But those damned Brits, stuck on their rainy little island, unsurprisingly dredged up some horrible people over six series.

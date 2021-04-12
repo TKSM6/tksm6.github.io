@@ -47,6 +47,8 @@ _*It's damn near impossible to find any video of her, or any real video from Sea
 
 **The Alberti Twins (Season 1)-** [These guys were just huge tools](https://www.youtube.com/watch?v=3gB_7gsohWo), not much else too it. They were too stupid to lie their way in, and they had two cracks at it. All the while, the twins were talking prodigious amounts of sh*t about how they were “real men” with money and the whole situation were beneath them. They were extremely rude to all the women and had excuses galore for all of it. Facially, they were some of the ugliest dudes that have ever been on the show, pulled up in matching suits like the herbs they were and called themselves the Italian Stallions despite being painfully British. They were unwatchable; I have no idea why they came back for a second round of dinner dates at the end when it was clear everyone already hated them. I guess they needed huge villains for season 1 and found them, but seriously, there was not a single redeemable moment or quality for either of them.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gB_7gsohWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 _*There isn't much video on YouTube to help me illustrate my point, but I'm not wrong. Go look on Reddit if you really care._
 
 <iframe src="https://giphy.com/embed/3oKIPwWEgGPrEq13O0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/johnny-love-island-itv2-3oKIPwWEgGPrEq13O0">via GIPHY</a></p>

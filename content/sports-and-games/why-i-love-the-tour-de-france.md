@@ -21,7 +21,9 @@ This year \[_2019_\], 22 teams took to the roads of France for the Tour. If you 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQH3EPY03Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Though the teams compete against each other to get the most riders across the line the fastest, the main attraction is the race for the yellow jersey, worn each stage by the rider with the lowest overall time. Each eight-man cohort features a team leader, the man with the best shot at a stage win or a high finish in the overall classification. Though Americans cycling fans are still waiting patiently for an elite rider of that caliber to fill the void left by you-know-who, there are a bevy of top-tier potential winners to get behind. Even if all the digital ink I’ve wasted hasn’t gotten you any closer to finding your team or rider, perhaps I can convince you to tune in for a stage and find one. 
+_This is Chris Froome, one of the best cyclists of the 2010s and a four-time TDF winner._ 
+
+Though the teams compete against each other to get the most riders across the line the fastest, the main attraction is the race for the yellow jersey, worn each stage by the rider with the lowest overall time. Each eight-man cohort features a team leader, the man with the best shot at a stage win or a high finish in the overall classification. Though Americans cycling fans are still waiting patiently for an elite rider of that caliber to fill the void left by you-know-who, there are a bevy of top-tier potential winners to get behind. Even if all the digital ink I’ve wasted hasn’t gotten you any closer to finding your team or rider, perhaps I can convince you to tune in for a stage and find one.
 
 <a href="/gif/lance-armstrong-zip-it-PsbBL2" title="Lance Armstrong -- "Zip It""><img src="https://i.makeagif.com/media/6-13-2015/PsbBL2.gif" alt="Lance Armstrong -- "Zip It""></a><div style="font-size:11px;">make <a href="/" title="make a gif">funny GIFs</a> like this at MakeaGif</div>
 

@@ -1,6 +1,5 @@
 +++
 date = 2021-04-07T01:28:42Z
-draft = true
 title = "Top 4 Villains: Love Island UK"
 
 +++

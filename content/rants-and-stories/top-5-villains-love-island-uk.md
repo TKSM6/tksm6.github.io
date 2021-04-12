@@ -27,9 +27,9 @@ I’m sure he’d be on the real list had he stuck around any longer, but this d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtG32eFdN2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Naomi (Season 1):** An ice queen in the classic sense, Naomi wrapped her younger partner Josh (a full-blown douche in his own right) so tightly around her finger it killed what few brain cells he had left. He stood no chance, but Naomi got greedy, got caught in a few lies and fans and islanders alike turned on her. All she really did was go after other girls’ guys, lead Josh on and lie (small potatoes in the villa), but because she did it with her nose in the air, it rubbed everyone the wrong way.
+**Naomi (Season 1):** An ice queen in the classic sense, Naomi wrapped her younger partner Josh ([a full-blown douche in his own right](https://www.youtube.com/watch?v=KlP7-v-m3zY)) so tightly around her finger it killed what few brain cells he had left. He stood no chance, but Naomi got greedy, got caught in a few lies and fans and islanders alike turned on her. All she really did was go after other girls’ guys, lead Josh on and lie (small potatoes in the villa), but because she did it with her nose in the air, it rubbed everyone the wrong way.
 
-_*It's damn near impossible to find any video of her, or any real video from Season 1._
+_*It's damn near impossible to find any video of her, or any real video, from Season 1._
 
 **Eyal (Season 4)**
 

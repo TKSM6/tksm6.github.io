@@ -1,5 +1,6 @@
 +++
 date = 2021-03-30T01:19:25Z
+draft = true
 title = "HotD 4/1 - People Who Got Mad About the Lil Nas X Video"
 
 +++

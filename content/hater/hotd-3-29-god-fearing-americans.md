@@ -1,6 +1,5 @@
 +++
 date = 2021-03-30T01:19:25Z
-draft = true
 title = "HotD 4/1 - People Who Got Mad About the Lil Nas X Video"
 
 +++
@@ -20,7 +19,7 @@ The appetizer here is Kristi Noem, the brain-dead, gun-toting governor of South 
 
 First of all, Kristi, these are fire. I've always loved 97s. Second of all, God-given eternal soul? I hate to be the bearer of bad news, but if we're talking souls, [yours is not in the greatest of shape](https://www.thedailybeast.com/gov-kristi-noem-says-shes-celebrating-intl-womens-day-by-signing-anti-trans-bill). Just type "Kristi Noem scandal" into Google for more (mostly [misusing taxpayer dollars](https://prospect.org/power/noem-bill-would-make-dark-money-disclosure-illegal/), [giving a raise to her daughter](https://www.aberdeennews.com/news/opinion/from-about-41k-to-58k-for-governor-s-daughter/article_fc637b86-1dbc-11ea-b961-db14b62c3554.html) while bemoaning budget issues and [bullying high schoolers](https://dakotafreepress.com/2019/06/16/girls-stater-expelled-after-posting-photo-of-noem-and-anti-trump-message/)). What was it the Bible said about the rich man getting into Heaven? If this is what "fight hard, fight smart" looks like, I think the rest of us are gonna be just fine.
 
-But the real treat is poopy pants gun girl. I don't know how to spell her name (Caytlin? Kaytlyn? Kaiytliyn?), but I like PPGG as an acronym. Anyway, she hit a triple word score in her responses–racism, homophobia (tweeting "At least I can procreate") and victimhood in a Twitter fight she started. She's saying the quiet parts out loud again! All Lil Nas X did was call her "shitty pants," and SPGG, like the good Karen she is, huffed and puffed and...went with racism. And for funzies, she claimed Lil Nas X [threatened to rape her father](https://twitter.com/kaitmarieox/status/1376375609555886080). That's textbook stuff; pick a fight, respond with racism, play the victim when the other person responds.
+But the real treat is poopy pants gun girl. I don't know how to spell her name (Caytlin? Kaytlyn? Kaiytliyn?), but I like PPGG as an acronym. Anyway, she hit a triple word score in her responses–racism, homophobia (tweeting "At least I can procreate") and victimhood in a Twitter fight she started. All Lil Nas X did was call her "shitty pants," and SPGG, like the good Karen she is, huffed and puffed and...went with racism. And for funzies, she claimed Lil Nas X [threatened to rape her father](https://twitter.com/kaitmarieox/status/1376375609555886080). That's textbook stuff; pick a fight, respond with racism, play the victim when the other person responds.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you still see your dad? <a href="https://t.co/yZhocQvvE5">https://t.co/yZhocQvvE5</a></p>— Kaitlin Bennett (@KaitMarieox) <a href="https://twitter.com/KaitMarieox/status/1376364462911987712?ref_src=twsrc%5Etfw">March 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -4,6 +4,8 @@ draft = true
 title = "Goodnight, Sweet Jules"
 
 +++
+_Editor's Note: If he runs down to Tampa Bay to play with his old buddies, I'll be sick. I'm mentally prepared for the news to break sometime this summer, but until then, nothing but happy thoughts._ 
+
 The top story out of Foxborough last week was Julian Edelman's retirement, and I am sad. Not for him–his knee is shot, he made his money and I'd suspect he's got a bright life after football waiting for him in front of whatever camera he chooses. We saw the wheels falling off a bit last season; anytime an older player attempts, and then aborts, a comeback from a tough injury, there's probably a reason why. But doling out flowers to those who deserve them is never a bad idea, and I'd like to do so for Jules.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo-4xrRErvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
